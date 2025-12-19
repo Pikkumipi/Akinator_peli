@@ -1,0 +1,446 @@
+[
+  {
+    "correct_animal": "duck",
+    "ai_guess": "Penguin",
+    "history": [
+      {
+        "question": "Is it a mammal?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a warm-blooded mammal?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a predator?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it have fur or hair?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it an herbivore?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it known for digging?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it live primarily underground?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it a bird?",
+        "answer": "yes"
+      }
+    ],
+    "timestamp": "2025-12-17T15:21:13.582736"
+  },
+  {
+    "correct_animal": "ladybug",
+    "ai_guess": "Dragonfly",
+    "history": [
+      {
+        "question": "Is it a mammal?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it have feathers?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it cold-blooded?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have limbs?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it an insect?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have a exoskeleton?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have wings?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have compound eyes?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have a stinger?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it lay its eggs in water?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it have more than one pair of wings?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have a lifecycle that includes multiple pupal stages?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it have hemolymph instead of blood?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have a single pair of functional wings for flying?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it have antennae?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have two pairs of wings?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it an insect in the order Diptera (two-winged insects)?",
+        "answer": "no"
+      }
+    ],
+    "timestamp": "2025-12-17T20:44:04.608379"
+  },
+  {
+    "correct_animal": "mouse",
+    "ai_guess": "Pika",
+    "history": [
+      {
+        "question": "Is it a mammal?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a terrestrial mammal?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a herbivore?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a ruminant?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it a herbivorous mammal that doesn't ruminate?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a rodent?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a ground-dwelling rodent?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a burrowing rodent?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a burrowing rodent that lives in underground tunnels?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a burrowing rodent with a large exposed upper incisor?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a burrowing rodent with distinctive fur texture?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it a burrowing rodent with a dark fur color?",
+        "answer": "no"
+      }
+    ],
+    "timestamp": "2025-12-17T22:10:59.860872"
+  },
+  {
+    "correct_animal": "Auk",
+    "ai_guess": "Auk",
+    "history": [
+      {
+        "question": "Is it a mammal?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it an amphibian?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it a bird?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a predatory bird?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a raptor?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it a land bird?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it a water bird?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a seabird?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it a duck?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a diving bird?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a diving bird that swims and catches fish?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a diving bird that specializes in catching and eating fish?",
+        "answer": "yes"
+      }
+    ],
+    "timestamp": "2025-12-17T22:13:47.657235"
+  },
+  {
+    "correct_animal": "ewolf",
+    "ai_guess": "ewolf",
+    "history": [
+      {
+        "question": "Is it a mammal?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a carnivore?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a predator at the top of its food chain?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have retractable claws?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it a canine?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it a domesticated dog?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it a wild canine?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it social and lives in packs?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have a thick coat of fur?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it larger than a wolves but smaller than a lion?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it found in cold climates like the Arctic?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have a long, bushy tail?",
+        "answer": "yes"
+      }
+    ],
+    "timestamp": "2025-12-19T12:04:40.460594"
+  },
+  {
+    "correct_animal": "butterfly",
+    "ai_guess": "Bee",
+    "history": [
+      {
+        "question": "Is it a mammal?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it a reptile?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it an invertebrate?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it an insect?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is it an insect with a hard exoskeleton?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have wings?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have a hive or live in colonies?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it have colorful wings?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have a slender body shape?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have a specialized piercing-sucking mouthpart?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it feed primarily on nectar?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have large eyes relative to its body size?",
+        "answer": "yes"
+      }
+    ],
+    "timestamp": "2025-12-19T12:24:03.823789"
+  },
+  {
+    "correct_animal": "owl",
+    "ai_guess": "Penguin",
+    "history": [
+      {
+        "question": "Is it a mammal?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it live in water?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it have feathers?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have a beak?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it lay eggs?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it havewebbed feet?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it fly?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it live primarily in forests?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have colorful feathers?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it feed mainly on insects?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it migrate seasonally?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it have a long tail?",
+        "answer": "no"
+      }
+    ],
+    "timestamp": "2025-12-19T12:27:37.398861"
+  },
+  {
+    "correct_animal": "owl",
+    "ai_guess": "sparrow",
+    "history": [
+      {
+        "question": "Is it a mammal?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it a reptile?",
+        "answer": "no"
+      },
+      {
+        "question": "Is it a bird?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have feathers?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it lay eggs?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have a beak?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have colorful plumage?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it live primarily on the ground?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it fly?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it migrate?",
+        "answer": "no"
+      },
+      {
+        "question": "Does it eat insects?",
+        "answer": "yes"
+      },
+      {
+        "question": "Does it have a long tail?",
+        "answer": "no"
+      }
+    ],
+    "timestamp": "2025-12-19T12:30:52.418631"
+  }
+]
