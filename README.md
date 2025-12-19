@@ -1,6 +1,8 @@
 # Akinator_peli
 Täällä on kaksi versiota akinator pelistä. Gemini LLM ja toinen Ollama.
 
+Lataa kansioon täältä kaikki tiedostot ja asenna sinne myös virtuaaliympäristö jos tarvitsee.
+-----------------------------------------------------------------------------------------------
 
 OLLAMAN OHJEET
 
@@ -18,7 +20,7 @@ venv\Scripts\activate
 lataa openai kirjasto
 pip install openai
 
-
+----------------------------------------------------------------------------------------------
 
 GEMINI OHJEET
 
