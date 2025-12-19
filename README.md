@@ -29,3 +29,6 @@ lataa genai kirjasto
 pip install google-genai
 
 
+---------------------------------------------------------------------------------------------------------
+Virtuaaliympäristöjä ei tarvitse, jos koneella on paikallisesti asennettuna kaikki tarvittavat kirjastot.
+
